@@ -10,6 +10,6 @@ At present, I am particularly interested in Artificial Intelligence, Machine Lea
 
 Looking ahead, I aspire to become a Computer Science researcher. Although AI/ML and Cybersecurity are currently the areas that interest me most, I do not want to limit myself to a fixed research field at this stage. I want to remain open to new technologies, ideas, and research directions as I continue learning and gaining experience. I believe that a clearer research direction should develop naturally through deeper study, exploration, and practical experience.
 
-Alongside my technical work, I also write about what I learn, the ideas I explore, and my experiences as I continue studying Computer Science. You can find my writing on Substack and connect with me on LinkedIn.
+Alongside my technical work, I also write about what I learn, the ideas I explore, and my experiences as I continue studying Computer Science. You can find my writing on Substack as well if I get to manage writing there. Link of my Substack profile : https://substack.com/@niaz003?utm_source=share&utm_medium=android&r=95l3io
 
 This profile is intended to remain a record of that process — what I have learned, what I am currently working on, and the directions I choose to explore next.
