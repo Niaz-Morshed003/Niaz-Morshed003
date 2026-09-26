@@ -1,4 +1,4 @@
-Hi, I'm Niaz Morshed
+Hi, I'm Niaz Morshed.
 
 I am a Computer Science and Engineering student at United International University (UIU), currently pursuing my undergraduate degree. My academic journey so far has been shaped by coursework, independent learning, and a growing curiosity about how different areas of Computer Science work and connect with one another.
 
